@@ -2,7 +2,7 @@
   "id": "hstl-persona-mic",
   "title": "HSTL Persona Mic Override",
   "description": "Renames the Viol tool proficiency to Persona Mic for this campaign.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": { "minimum": "12" },
   "esmodules": ["persona-mic.js"],
   "manifest": "https://raw.githubusercontent.com/idcs-source/hstl-persona-mic/refs/heads/main/module.json",
