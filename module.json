@@ -2,7 +2,7 @@
   "id": "persona-mic-tool",
   "title": "Persona Mic Tool Proficiency",
   "description": "Registers the custom Persona Mic item as a selectable tool proficiency for the dnd5e system.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
