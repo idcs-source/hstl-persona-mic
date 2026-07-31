@@ -1,13 +1,30 @@
 {
-  "id": "hstl-persona-mic",
-  "title": "HSTL Persona Mic Override",
-  "description": "Renames the Viol tool proficiency to Persona Mic for this campaign.",
-  "version": "1.0.2",
-  "compatibility": { "minimum": "12" },
-  "esmodules": ["persona-mic.js"],
-  "manifest": "https://raw.githubusercontent.com/idcs-source/hstl-persona-mic/refs/heads/main/module.json",
-  "download": "https://github.com/idcs-source/hstl-persona-mic/releases/download/1.0.0/hstl-persona-mic-script.zip",
+  "id": "persona-mic-tool",
+  "title": "Persona Mic Tool Proficiency",
+  "description": "Registers the custom Persona Mic item as a selectable tool proficiency for the dnd5e system.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
   "relationships": {
-    "systems": [{ "id": "dnd5e", "type": "system" }]
-  }
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "authors": [
+    {
+      "name": "GM"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
 }
