@@ -24,7 +24,7 @@
       "name": "GM"
     }
   ],
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/idcs-source/hstl-persona-mic",
+  "manifest": "https://raw.githubusercontent.com/idcs-source/hstl-persona-mic/refs/heads/main/module.json",
+  "download": "https://github.com/idcs-source/hstl-persona-mic/releases/latest/download/persona-mic-tool.zip"
 }
